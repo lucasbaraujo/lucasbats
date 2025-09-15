@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá 👋
 
-<!--
-**lucasbats/lucasbats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Produção - UFRJ  
+📊 Interesse em Dados, Automação e Mercado Financeiro  
+🐍 Atualmente aprendendo Python, Excel e Power BI 
+🚀 Construindo projetos para aplicar e compartilhar conhecimento  
 
-Here are some ideas to get you started:
+## Projetos em andamento
+- 📈 Análise de dados com Python e Pandas
+- 📊 Dashboard em Power BI para controle financeiro
+- 🏙️ Modelagem da capital Brasília (disciplina de Desesenho Computacional)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/lucasbatistaraujo) | [Email](lucas.20241@poli.ufrj.br)

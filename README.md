@@ -2,12 +2,11 @@
 
 🎓 Estudante de Engenharia de Produção - UFRJ  
 📊 Interesse em Dados, Automação e Mercado Financeiro  
-🐍 Atualmente aprendendo Python, Excel e Power BI 
+🐍 Atualmente aprendendo Python, Excel e SQL
 🚀 Construindo projetos para aplicar e compartilhar conhecimento  
 
 ## Projetos em andamento
 - 📈 Análise de dados com Python e Pandas
-- 📊 Dashboard em Power BI para controle financeiro
 - 🏙️ Modelagem da capital Brasília (disciplina de Desesenho Computacional)
 
 

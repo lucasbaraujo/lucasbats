@@ -11,4 +11,4 @@
 
 
 ---
-📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/lucasbatistaraujo) | [Email](lucas.20241@poli.ufrj.br)
+📫 Como me encontrar: [LinkedIn]([https://www.linkedin.com/in/lucasbatistaraujo](https://www.linkedin.com/in/lucas-araujjo/)) | [Email](lucas.20241@poli.ufrj.br)

@@ -1,4 +1,4 @@
-# Olá 
+# Olá 👋🏽
 
 🎓 Estudante de Engenharia de Produção - UFRJ  
 📊 Interesse em Dados, Automação e Mercado Financeiro  

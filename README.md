@@ -23,5 +23,5 @@ Projetos em andamento
 
 
 >[!TIP]
->Você pode falar comigo pelo meu [LinkedIn](https://www.linkedin.com/in/lucas-b-araujo/) ou por [Email](lucas.20241@poli.ufrj.br)
+>Você pode falar comigo pelo meu [LinkedIn](https://www.linkedin.com/in/lucas-b-araujo/) ou pelo email: lucas.20241@poli.ufrj.br
 

@@ -16,7 +16,7 @@ Projetos em andamento
 &emsp;O trabalho consiste em visitas semanais à fábrica, onde são feitas análises e usamos ferramentas(mapofluxogramas, EAMETA, CORSETT, etc) para elaborar um relatório final incluindo propostas de solução aos problemas encontrados.
 
     
-\- Dashboard de vendas do E-commerce Olist
+\- Dashboard de vendas do e-commerce Olist
 
 
 &emsp;Esse foi meu primeiro e único até então dashboard feito no Excel, foi muito importante pro meu aprendizado principalmente de ferramentas como Power Query e Power Pivot, que foram muito nescessárias tendo em vista que o Dataset utilizado tinha mais de 100 mil vendas realizadas, e por isso ainda matenho ele como projeto em andamento, porque pretendo fazer melhorias nele no futuro.

@@ -10,7 +10,7 @@ Projetos em andamento:
 \- Dashboard de vendas do e-commerce Olist
 
 
-&emsp;Esse foi meu primeiro e único até então dashboard feito no Excel, foi muito importante pro meu aprendizado principalmente de ferramentas como Power Query e Power Pivot, que foram muito nescessárias tendo em vista que o Dataset utilizado tinha mais de 100 mil vendas realizadas, e por isso ainda matenho ele como projeto em andamento, porque pretendo fazer melhorias nele no futuro.
+&emsp;Esse foi meu primeiro e único até então dashboard feito no Excel, foi muito importante pro meu aprendizado principalmente de ferramentas como Power Query e Power Pivot, que foram muito necessárias tendo em vista que o Dataset utilizado tinha mais de 100 mil vendas realizadas, e por isso ainda mantenho ele como projeto em andamento, porque pretendo fazer melhorias nele no futuro.
 
 
 
